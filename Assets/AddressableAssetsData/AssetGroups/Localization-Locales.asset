@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Locales
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Locales
+  m_GUID: 3e4303b90b4b838439792d81a1a07ba8
+  m_SerializeEntries:
+  - m_GUID: 05c1fa4ef6d28c34cbddcddd3c43b511
+    m_Address: Hindi (India) (hi-IN)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cc466832a8e9cc48b48440d1a56b834
+    m_Address: Russian (Russia) (ru-RU)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d633ac67b5378d4aabba2bb864007bb
+    m_Address: Vietnamese (vi)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ed8a2406448e4c4f9f1787469eb6516
+    m_Address: Chinese (Traditional) (zh-TW)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ba44414a5deb594cbd51ff5548c31fe
+    m_Address: Chinese (Simplified) (zh-CN)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ff552ace5805543bda350307d79919
+    m_Address: German (Germany) (de-DE)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b837b9ece8a0534a92e440b119124a5
+    m_Address: English (en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ce8384e62e91244abdc64d1fcd832c3
+    m_Address: Spanish (Spain) (es-ES)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 674d8717af5cdae44b0d3c2fe1583fe9
+    m_Address: Korean (ko)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 963d0c6fc5ee08e4a9de4ff0928c0a1e
+    m_Address: Turkish (Turkey) (tr-TR)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99e0f48dd7966454db10dbcaa6a374ed
+    m_Address: French (France) (fr-FR)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a05c52b35c97aed4d92e5cfa8f8aac81
+    m_Address: Japanese (Japan) (ja-JP)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4b623d1f0e634244492a826713103726, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f993a1573c129f5409e6762599e5b8a5, type: 2}
+    - {fileID: 11400000, guid: 08e70bf64f857f945b425acde0cbd8b7, type: 2}

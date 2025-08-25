@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: d23b44247ad9a034fab54845aeec32a7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 154317656064
+    m_Localized: jeu de pomme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1880781262848
+    m_Localized: fais-le encore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925194747904
+    m_Localized: au principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977392861184
+    m_Localized: Cacher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2174332211200
+    m_Localized: montrer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2330096078848
+    m_Localized: Voulez-vous quitter le jeu ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2384219377664
+    m_Localized: fin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427798196224
+    m_Localized: fermer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760532332544
+    m_Localized: "<size=33>\"jeu de pomme\" est un jeu dans lequel vous obtenez un
+      score \xE9lev\xE9 en faisant la somme des pommes 10 et en les retirant pour
+      obtenir des points."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2762285551616
+    m_Localized: "<size=33>Lorsqu'une zone est cr\xE9\xE9e en touchant l'\xE9cran,
+      les pommes dans la zone sont s\xE9lectionn\xE9es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763107635200
+    m_Localized: "<size=33>Si la somme des pommes dans la zone est \xAB 10 \xBB,
+      les pommes sont retir\xE9es et des points sont attribu\xE9s \xE9gaux au nombre
+      de pommes retir\xE9es."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: d23b44247ad9a034fab54845aeec32a7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 154317656064
+    m_Localized: Apfelspiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1880781262848
+    m_Localized: mach es noch einmal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925194747904
+    m_Localized: zur Hauptsache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977392861184
+    m_Localized: Verstecken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2174332211200
+    m_Localized: zeigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2330096078848
+    m_Localized: "M\xF6chten Sie das Spiel beenden?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2384219377664
+    m_Localized: Ende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427798196224
+    m_Localized: "schlie\xDFen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760532332544
+    m_Localized: "<size=33>\u201EApfelspiel\u201C ist ein Spiel, bei dem Sie eine
+      hohe Punktzahl erzielen, indem Sie die Summe der \xC4pfel auf 10 erh\xF6hen
+      und diese entfernen, um Punkte zu erhalten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2762285551616
+    m_Localized: "<size=33>Wenn durch Ber\xFChren des Bildschirms ein Bereich erstellt
+      wird, werden die \xC4pfel innerhalb des Bereichs ausgew\xE4hlt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763107635200
+    m_Localized: "<size=33>Wenn die Summe der \xC4pfel in der Fl\xE4che \u201E10\u201C
+      betr\xE4gt, werden die \xC4pfel entfernt und es werden Punkte in H\xF6he der
+      Anzahl der entfernten \xC4pfel vergeben."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

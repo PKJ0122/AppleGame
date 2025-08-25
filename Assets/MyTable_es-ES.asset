@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: d23b44247ad9a034fab54845aeec32a7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 154317656064
+    m_Localized: juego de manzana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1880781262848
+    m_Localized: hazlo de nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925194747904
+    m_Localized: a principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977392861184
+    m_Localized: Esconder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2174332211200
+    m_Localized: "espect\xE1culo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2330096078848
+    m_Localized: "\xBFQuieres salir del juego?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2384219377664
+    m_Localized: fin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427798196224
+    m_Localized: cerca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760532332544
+    m_Localized: "<size=35>\"juego de manzana\" es un juego en el que obtienes una
+      puntuaci\xF3n alta sumando 10 manzanas y elimin\xE1ndolas para obtener puntos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2762285551616
+    m_Localized: "<size=35>Cuando se crea un \xE1rea tocando la pantalla, se seleccionan
+      las manzanas dentro del \xE1rea."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763107635200
+    m_Localized: "<size=35>Si la suma de las manzanas en el \xE1rea es \"10\", las
+      manzanas se eliminan y se otorgan puntos iguales al n\xFAmero de manzanas eliminadas."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

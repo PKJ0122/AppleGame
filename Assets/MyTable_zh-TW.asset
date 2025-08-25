@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_zh-TW
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-TW
+  m_SharedData: {fileID: 11400000, guid: d23b44247ad9a034fab54845aeec32a7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 154317656064
+    m_Localized: "\u860B\u679C\u904A\u6232"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1880781262848
+    m_Localized: "\u518D\u505A\u4E00\u6B21"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925194747904
+    m_Localized: "\u5230\u4E3B\u8981"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977392861184
+    m_Localized: "\u96B1\u85CF\u7D50\u679C\u8996\u7A97"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2174332211200
+    m_Localized: "\u986F\u793A\u7D50\u679C\u8996\u7A97"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2330096078848
+    m_Localized: "\u60A8\u60F3\u9000\u51FA\u904A\u6232\u55CE\uFF1F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2384219377664
+    m_Localized: "\u7D50\u5C3E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427798196224
+    m_Localized: "\u95DC\u9589"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760532332544
+    m_Localized: "<size=40>\u300C\u860B\u679C\u904A\u6232\u300D\u662F\u4E00\u7A2E\u900F\u904E\u5C07\u860B\u679C\u7684\u7E3D\u548C\u9054\u523010\u4E26\u6D88\u9664\u5B83\u5011\u4F86\u7372\u5F97\u5206\u6578\u4F86\u7372\u5F97\u9AD8\u5206\u7684\u904A\u6232\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2762285551616
+    m_Localized: "<size=40>\u7576\u900F\u904E\u89F8\u63A7\u87A2\u5E55\u5EFA\u7ACB\u4E00\u500B\u5340\u57DF\u6642\uFF0C\u8A72\u5340\u57DF\u5167\u7684\u860B\u679C\u5C07\u88AB\u9078\u4E2D\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763107635200
+    m_Localized: "<size=40>\u5982\u679C\u8A72\u5340\u57DF\u4E2D\u7684\u860B\u679C\u7E3D\u6578\u70BA\u201C10\u201D\uFF0C\u5247\u860B\u679C\u5C07\u88AB\u79FB\u9664\uFF0C\u4E26\u7372\u5F97\u8207\u79FB\u9664\u7684\u860B\u679C\u6578\u91CF\u76F8\u540C\u7684\u5206\u6578\u3002"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

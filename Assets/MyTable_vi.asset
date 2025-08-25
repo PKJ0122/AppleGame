@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: d23b44247ad9a034fab54845aeec32a7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 154317656064
+    m_Localized: "tr\xF2 ch\u01A1i t\xE1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1880781262848
+    m_Localized: "Ph\xE1t l\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925194747904
+    m_Localized: "Ch\u1EE7 y\u1EBFu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977392861184
+    m_Localized: "\u1EA8n\nk\u1EBFt qu\u1EA3\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2174332211200
+    m_Localized: "Hi\u1EC3n th\u1ECB \nk\u1EBFt qu\u1EA3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2330096078848
+    m_Localized: "B\u1EA1n c\xF3 mu\u1ED1n tho\xE1t kh\u1ECFi tr\xF2 ch\u01A1i kh\xF4ng?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2384219377664
+    m_Localized: "\u0110\xFAng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427798196224
+    m_Localized: "KH\xD4NG"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760532332544
+    m_Localized: "\u201Ctr\xF2 ch\u01A1i t\xE1o\u201D l\xE0 m\u1ED9t tr\xF2 ch\u01A1i
+      m\xE0 b\u1EA1n \u0111\u1EA1t \u0111i\u1EC3m cao b\u1EB1ng c\xE1ch c\u1ED9ng
+      t\u1ED5ng s\u1ED1 t\xE1o l\xE0 10 v\xE0 lo\u1EA1i b\u1ECF ch\xFAng \u0111\u1EC3
+      nh\u1EADn \u0111i\u1EC3m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2762285551616
+    m_Localized: "Khi m\u1ED9t khu v\u1EF1c \u0111\u01B0\u1EE3c t\u1EA1o b\u1EB1ng
+      c\xE1ch ch\u1EA1m v\xE0o m\xE0n h\xECnh, nh\u1EEFng qu\u1EA3 t\xE1o trong khu
+      v\u1EF1c \u0111\xF3 s\u1EBD \u0111\u01B0\u1EE3c ch\u1ECDn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763107635200
+    m_Localized: "N\u1EBFu t\u1ED5ng s\u1ED1 t\xE1o trong khu v\u1EF1c l\xE0 \"10\",
+      s\u1ED1 t\xE1o s\u1EBD b\u1ECB lo\u1EA1i b\u1ECF v\xE0 \u0111i\u1EC3m \u0111\u01B0\u1EE3c
+      th\u01B0\u1EDFng b\u1EB1ng s\u1ED1 l\u01B0\u1EE3ng t\xE1o b\u1ECB lo\u1EA1i
+      b\u1ECF."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
